@@ -17,6 +17,17 @@
 
 ## Learning Content
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
+- **SQL**:  📄[노트](https://www.notion.so/111df982be6580ac9387c8afa4302858)
+  &nbsp;
 
-Click the thumbnail above to watch the video on YouTube: **"Title of the Video"**.
+- **SQL 튜닝**:  📄[노트](https://www.notion.so/1-numpy-111df982be65803a8fcafc6c1cfae343?pvs=21)
+
+- **R**:  📄[노트](https://www.notion.so/2-N-111df982be6580d28e22d1f16c91476f?pvs=21)
+
+- **파이썬**:  📄[노트](https://www.notion.so/3-111df982be65803dbd11c806162bb5cf?pvs=21)
+
+- **리눅스**:  📄[노트](https://www.notion.so/4-111df982be65807ab698c36ff228c519?pvs=21)
+
+- **딥러닝**:  📄[노트](https://www.notion.so/1-5-Matplotlib-113df982be65805db730c6720d3d1353?pvs=21)
+
+- **태블로**:  📄[노트](https://www.notion.so/1-5-Matplotlib-113df982be65805db730c6720d3d1353?pvs=21)
