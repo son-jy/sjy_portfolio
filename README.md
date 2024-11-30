@@ -15,16 +15,8 @@
 | **Project 3**<br> 기후변환 데이터 분석                          | 
 
 
-## Additional Resources
+## Learning Content
 
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VYIz3FiTFKQ/0.jpg)](https://www.youtube.com/watch?v=VYIz3FiTFKQ)
 
 Click the thumbnail above to watch the video on YouTube: **"Title of the Video"**.
-
----
-
-## Certifications
-
-<div style="text-align: center;">
-    <img src="자격증1.png" alt="국가기술자격증" width="400">
-</div>
