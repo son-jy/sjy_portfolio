@@ -1,6 +1,6 @@
 # Portfolio
 
-## Projects Overview [포트폴리오[다운로드](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link)]
+## Projects Overview [[다운로드](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link)]
 
 | <a href="SQL 포트폴리오.pdf"><img src="SQL.png" alt="SQL 데이터 분석 포트폴리오" width="500"></a> |
 |:----------------------------------------------------------------:|
