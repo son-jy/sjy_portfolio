@@ -15,7 +15,7 @@
 | **Project 3**<br> 보행약자 통행 보조 시스템 개발                        |
 
 
-## Learning Content(학습 내용)
+## IT보유능력
 
 - **SQL**:  📄[바로가기](https://github.com/son-jy/sqlnote/blob/main/README.md)
   &nbsp;
