@@ -2,6 +2,7 @@
 
 ## Projects Overview [[포트폴리오.zip](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link)]
 * 이미지를 클릭하시거나 '포트폴리오.zip'에서 전체 결과물을 확인하실 수 있습니다.
+
 | <a href="SQL 포트폴리오.pdf"><img src="SQL.png" alt="SQL 데이터 분석 포트폴리오" width="500"></a> |
 |:----------------------------------------------------------------:|
 | **Project 1**<br> 해외여행객 수 추이 분석 및 예측                 |
