@@ -4,10 +4,7 @@
 
 | <a href="포트폴리오_손주용.pdf"><img src="포트폴리오_표지.png" alt="데이터 분석 프로젝트 포트폴리오" width="500"></a> |
 |:----------------------------------------------------------------:|
-| <p align="left">
-• 이미지를 클릭하시면 포트폴리오로 이동합니다. <br>
-• 각 포트폴리오의 원본 자료는 <a href="https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link">여기</a>에서 확인하실 수 있습니다.
-</p>|
+| ● 이미지를 클릭하시면 포트폴리오로 이동합니다. <br> ● 각 포트폴리오의 원본 자료는 [여기](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link)를 눌러 확인하실 수 있습니다. |
 
 
 ## IT보유능력
