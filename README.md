@@ -1,19 +1,10 @@
 # Portfolio
 
 ## Projects Overview [[포트폴리오.zip](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link)]
-* 이미지를 클릭하시거나 '포트폴리오.zip'에서 전체 결과물을 확인하실 수 있습니다.
 
-| <a href="SQL 포트폴리오.pdf"><img src="SQL.png" alt="SQL 데이터 분석 포트폴리오" width="500"></a> |
+| <a href="포트폴리오_손주용.pdf"><img src="포트폴리오_표지.png" alt="데이터 분석 프로젝트 포트폴리오" width="500"></a> |
 |:----------------------------------------------------------------:|
-| **Project 1**<br> 해외여행객 수 추이 분석 및 예측                 |
-
-| <a href="세미프로젝트(파이썬).pdf"><img src="세미.png" alt="파이썬 데이터 분석 포트폴리오" width="500"></a> |
-|:-----------------------------------------------------------------------:|
-| **Project 2**<br> 카페 창업을 위한 서울시 상권 입지 분석                 |
-
-| <a href="파이널프로젝트(딥러닝).pdf"><img src="파이널.png" alt="딥러닝 포트폴리오" width="500"></a> |
-|:----------------------------------------------------------------------:|
-| **Project 3**<br> 보행약자 통행 보조 시스템 개발                        |
+| * 이미지를 클릭하시면 포트폴리오를 볼 수 있습니다. <br> * 포트폴리오 별 원본을 확인하려면 [여기](https://drive.google.com/drive/folders/1X6_p5lASt1Vx4kMfTuXz2NZbSpfSalrX?usp=drive_link) 클릭해주세요.                |
 
 
 ## IT보유능력
